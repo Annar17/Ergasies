@@ -1,5 +1,6 @@
 NUMS= [i for i in range(-30,31)]
 print (NUMS[:])
+print('\n')
 
 TUXAIOI=[]
 for i in range(0,30):
@@ -7,6 +8,7 @@ for i in range(0,30):
     NUMS[0:60]
     TUXAIOI = random.sample(NUMS,30)
 print (TUXAIOI[:])
+print('\n')
 
 n = 0
 for i in range (0,28):
