@@ -3,7 +3,6 @@ print (NUMS[:])
 print('\n')
 
 TUXAIOI=[]
-
 import random
 NUMS[0:60]
 TUXAIOI = random.sample(NUMS,30)
