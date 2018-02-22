@@ -3,10 +3,9 @@ print (NUMS[:])
 print('\n')
 
 TUXAIOI=[]
-for i in range(0,30):
-    import random
-    NUMS[0:60]
-    TUXAIOI = random.sample(NUMS,30)
+import random
+NUMS[0:60]
+TUXAIOI = random.sample(NUMS,30)
 print (TUXAIOI[:])
 print('\n')
 
